@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15CSLh__F-MEVFnr_iHpkYW83ND6r0jVL/view?usp=sharing](https://drive.google.com/file/d/15CSLh__F-MEVFnr_iHpkYW83ND6r0jVL/view?usp=sharing)
 
-- ⚡ Fun fact **Me!**
+- ⚡ Fun fact **<15LPA 🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gautammandoliya2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ClaI5DWMCxjJxRXbVJxJ4d6GYHA-rr_r/view?usp=drive_link](https://drive.google.com/file/d/1ClaI5DWMCxjJxRXbVJxJ4d6GYHA-rr_r/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15CSLh__F-MEVFnr_iHpkYW83ND6r0jVL/view?usp=sharing](https://drive.google.com/file/d/15CSLh__F-MEVFnr_iHpkYW83ND6r0jVL/view?usp=sharing)
 
 - ⚡ Fun fact **Me!**
 

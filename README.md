@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CrowdFunding Platform](https://github.com/Gautam-Mandoliya/CrowdFunding-Platform-GFund)
 
-- 🌱 I’m currently learning ** REACT, ether.js, JAVA(JSP and Servlet) **
+- 🌱 I’m currently learning ** REACT, ether.js, JAVA-JSP and Servlet **
 
 - 👯 I’m looking to collaborate on **Decentralized Application Development**
 

@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on [CrowdFunding Platform](https://github.com/Gautam-Mandoliya/CrowdFunding-Platform-GFund)
 
-- 🌱 I’m currently learning **Angular.js, Flutter, React**
+- 🌱 I’m currently learning ** REACT, ether.js, JAVA(JSP and Servlet)**
 
-- 👯 I’m looking to collaborate on **Rental Property Dapp**
+- 👯 I’m looking to collaborate on **Decentralized Application Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gautam-Mandoliya?tab=repositories](https://github.com/Gautam-Mandoliya?tab=repositories)
 
-- 💬 Ask me about **Solidity, Blockchain, JS, WebDev**
+- 💬 Ask me about **REACT, WebDev, Solidity, Blockchain, JS**
 
 - 📫 How to reach me **gautammandoliya2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15CSLh__F-MEVFnr_iHpkYW83ND6r0jVL/view?usp=sharing](https://drive.google.com/file/d/15CSLh__F-MEVFnr_iHpkYW83ND6r0jVL/view?usp=sharing)
 
-- ⚡ Fun fact **<15LPA 🤖**
+- ⚡ Fun fact **<10LPA 🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

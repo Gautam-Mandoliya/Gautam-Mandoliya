@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15CSLh__F-MEVFnr_iHpkYW83ND6r0jVL/view?usp=sharing](https://drive.google.com/file/d/15CSLh__F-MEVFnr_iHpkYW83ND6r0jVL/view?usp=sharing)
 
-- ⚡ Fun fact **<10LPA 🤖**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://codesandbox.io/u/gautammandoliya2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://codesandbox.io/u/gautammandoliya2002" height="30" width="40" /></a>
